@@ -1,0 +1,1 @@
+This project is a personal website that contains information about me. In the realization of this project I used elementary knowledge of HTML and CSS. I believe that creating this website made me better understand the concepts of HTML and CSS, but also how a personal website should look.
